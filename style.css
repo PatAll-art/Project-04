@@ -653,6 +653,16 @@ a {
     color: #337ab7!important;
 }
 
+.client-testimonial {
+    font-family: "helvetica";
+    font-size: 16px!important;
+    color: rgb(53, 53, 53)!important;
+    font-style: italic;
+    
+}
+.bold-testimonal {
+    font-weight: bold;
+}
 
 .container {
     max-width: 1000px;
@@ -923,6 +933,8 @@ h4 {
         margin-left: 0;
         margin-right: 0;
     }
+
+    }
     .site-navigation {
         position: inherit;
         transform: none;
@@ -1032,7 +1044,7 @@ h4 {
         width: 180px;
         height: 320px;
     }
-}
+
 
 @media (max-width: 400px) {
     .bloc {
