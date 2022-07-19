@@ -653,6 +653,13 @@ a {
     color: #337ab7!important;
 }
 
+@media (max-width: 991px) {
+    .text-center {
+        margin: 10px;
+        
+    }
+}
+
 .client-testimonial {
     font-family: "helvetica";
     font-size: 16px!important;
@@ -711,9 +718,20 @@ p {
 
 .social {
     max-width: 400px;
-    margin: auto auto auto auto;
+    margin: auto;
+    padding-top: 30px;
 }
-
+@media (max-width: 991px) {
+    .social {
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+        justify-content: space-evenly;
+        align-items: center;
+    }
+}
+    .b-p
 h2 {
     font-size: 30px;
     line-height: 1.4em;
@@ -749,6 +767,7 @@ h4 {
 
 .white {
     color: #FFFFFF!important;
+    
 }
 
 .portfolio-thumb {
