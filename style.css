@@ -836,11 +836,11 @@ h4 {
 }
 
 .bg-atlanta-20made-20sign {
-    background-image: url("img/atlanta%20made%20sign.jpg");
+    background-image: url("img/atlantamadesign.webp");
 }
 
 .bg-atlanta-20made-20sign-20orange {
-    background-image: url("img/atlanta%20made%20sign%20orange.jpg");
+    background-image: url("img/atlantamadesignorange.webp");
 }
 
 @media (max-width: 1024px) {
@@ -1046,6 +1046,11 @@ h4 {
         width: 180px;
         height: 320px;
     }
+
+footer {
+    padding: 50px;
+    background-color: #364577;
+}
 
 
 @media (max-width: 400px) {
