@@ -4,7 +4,9 @@ GoMike Designs
 
 Adjustment of SEO and Accesability for GoMike Designs.
 
-website link:  https://patall-art.github.io/Project-04/
+Optimized website link:  https://patall-art.github.io/Project-04/
+
+Previous Website link: https://patall-art.github.io/Project-04-initial/
 
 ## Technology Used
 
