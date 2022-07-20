@@ -6,13 +6,11 @@ Adjustment of SEO and Accesability for GoMike Designs.
 
 website link:  https://patall-art.github.io/Project-04/
 
-## Grahic Information
-[logo](/images/logo/ohmyfood.png)
-
 ## Technology Used
 
 * HTML
 * CSS
+*JavaScript
 
 ## Description
 
