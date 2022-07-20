@@ -10,7 +10,7 @@ website link:  https://patall-art.github.io/Project-04/
 
 * HTML
 * CSS
-*JavaScript
+* JavaScript
 
 ## Description
 
